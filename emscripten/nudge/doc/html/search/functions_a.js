@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['nm_5fmat3fromquat_0',['nm_Mat3FromQuat',['../group__math__group.html#gac3217525fac068f8d11834a162799edb',1,'nudge']]],
+  ['nm_5fmat4mul_1',['nm_Mat4Mul',['../group__math__group.html#gaa5131490385a86ae39bc9dab1662b6a3',1,'nudge']]],
+  ['nm_5fmat4setrotationfromquat_2',['nm_Mat4SetRotationFromQuat',['../group__math__group.html#ga245e4545fffd33ee0f27e9b884c80b72',1,'nudge']]],
+  ['nm_5fquatadvance_3',['nm_QuatAdvance',['../group__math__group.html#gaf50a3878dcdb703056035c724e706b24',1,'nudge']]],
+  ['nm_5fquatfromangleaxis_4',['nm_QuatFromAngleAxis',['../group__math__group.html#ga9fc34e2baf84265b680cadf192f858a7',1,'nudge']]],
+  ['nm_5fquatfrommat3_5',['nm_QuatFromMat3',['../group__math__group.html#ga145d7e005678e7a3279d2d3eb3100060',1,'nudge']]],
+  ['nm_5fquatfrommat4_6',['nm_QuatFromMat4',['../group__math__group.html#ga0811ff81117c36bc0cf05ed06e414773',1,'nudge']]],
+  ['nm_5fquatgetangularvelocity_7',['nm_QuatGetAngularVelocity',['../group__math__group.html#ga2068aefe899779966827c06d0badf343',1,'nudge']]],
+  ['nm_5fquatgetaxis_8',['nm_QuatGetAxis',['../group__math__group.html#ga38986917798ecb49fb9be7b3ac8de6e1',1,'nudge']]],
+  ['nm_5fquatgetaxisx_9',['nm_QuatGetAxisX',['../group__math__group.html#gafa4eb188299fa81fd2bafbc43e72be8b',1,'nudge']]],
+  ['nm_5fquatgetaxisy_10',['nm_QuatGetAxisY',['../group__math__group.html#ga90687627d8178ffdc8f3fb911d985d21',1,'nudge']]],
+  ['nm_5fquatgetaxisz_11',['nm_QuatGetAxisZ',['../group__math__group.html#ga67617fea53d17f68cd77e46f4e4e930b',1,'nudge']]],
+  ['nm_5fquatmul_12',['nm_QuatMul',['../group__math__group.html#gaa76076d1582ff1181e396a1482e6e8fc',1,'nudge']]],
+  ['nm_5fquatmulvec3_13',['nm_QuatMulVec3',['../group__math__group.html#ga2246c37a9b9b47c3b6aa4fd298731981',1,'nudge']]],
+  ['nm_5fquatnormalize_14',['nm_QuatNormalize',['../group__math__group.html#gae87d477b73b813d012bccfa5562a15a3',1,'nudge']]],
+  ['nm_5fquatrotate_15',['nm_QuatRotate',['../group__math__group.html#ga2769742ae3cf4c84df71e60d3f7cfbe0',1,'nudge']]],
+  ['nm_5fquatslerp_16',['nm_QuatSlerp',['../group__math__group.html#gab1b3ddbddff3d84289847725afc5061d',1,'nudge']]],
+  ['nm_5fquattoangleaxis_17',['nm_QuatToAngleAxis',['../group__math__group.html#gac7915cfbab9480afca1049f77bee7ba9',1,'nudge']]],
+  ['nm_5fvec3cross_18',['nm_Vec3Cross',['../group__math__group.html#gabe98fe5b2474dedd3b254b697e22408c',1,'nudge']]],
+  ['nm_5fvec3dot_19',['nm_Vec3Dot',['../group__math__group.html#gaebafe7671191227852243bcc277266a2',1,'nudge']]],
+  ['nm_5fvec3normalize_20',['nm_Vec3Normalize',['../group__math__group.html#gab98165db9b3106d672138a2a1bf7c117',1,'nudge']]],
+  ['nm_5fvec3normalized_21',['nm_Vec3Normalized',['../group__math__group.html#ga6729992c7afc092e3a68cbed47a87899',1,'nudge']]]
+];

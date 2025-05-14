@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['bf_5fhas_5fcom_5foffset_0',['BF_HAS_COM_OFFSET',['../namespacenudge.html#ac872d3843c8f3c0d8d3a007521a34350a32657221972f3ad9ad4fd25440b005c9',1,'nudge']]],
+  ['bf_5fhas_5fdifferent_5faux_5fbodies_5freset_5fmode_1',['BF_HAS_DIFFERENT_AUX_BODIES_RESET_MODE',['../namespacenudge.html#ac872d3843c8f3c0d8d3a007521a34350a6ff3e5c805167ade5ddf0864ab9ad40f',1,'nudge']]],
+  ['bf_5fhas_5fdifferent_5fgravity_5fmode_2',['BF_HAS_DIFFERENT_GRAVITY_MODE',['../namespacenudge.html#ac872d3843c8f3c0d8d3a007521a34350a44a2f35fd02bedc80ec453737f7e0a84',1,'nudge']]],
+  ['bf_5fis_5fcharacter_3',['BF_IS_CHARACTER',['../namespacenudge.html#ac872d3843c8f3c0d8d3a007521a34350ae45790a5abc1af6151a0e20eff1f12d3',1,'nudge']]],
+  ['bf_5fis_5fdisabled_4',['BF_IS_DISABLED',['../namespacenudge.html#ac872d3843c8f3c0d8d3a007521a34350ad09f0f215f1e96fb2e53c24c9687680f',1,'nudge']]],
+  ['bf_5fis_5fdisabled_5for_5fremoved_5',['BF_IS_DISABLED_OR_REMOVED',['../namespacenudge.html#ac872d3843c8f3c0d8d3a007521a34350a9bd0914bd9796702f231ab2f9f4cebb8',1,'nudge']]],
+  ['bf_5fis_5fdisabled_5for_5fremoved_5for_5ffrustum_5fculled_6',['BF_IS_DISABLED_OR_REMOVED_OR_FRUSTUM_CULLED',['../namespacenudge.html#ac872d3843c8f3c0d8d3a007521a34350a6cf54dcacd1be592abd316f5ebaaff48',1,'nudge']]],
+  ['bf_5fis_5fdynamic_7',['BF_IS_DYNAMIC',['../namespacenudge.html#ac872d3843c8f3c0d8d3a007521a34350a13dc56868e984a3c6ba3401f05b52607',1,'nudge']]],
+  ['bf_5fis_5ffrustum_5fculled_8',['BF_IS_FRUSTUM_CULLED',['../namespacenudge.html#ac872d3843c8f3c0d8d3a007521a34350a57f6f846d6e098a90f1644239f270e7a',1,'nudge']]],
+  ['bf_5fis_5fkinematic_9',['BF_IS_KINEMATIC',['../namespacenudge.html#ac872d3843c8f3c0d8d3a007521a34350a9c290aea4f1a35aebca239e83ed12deb',1,'nudge']]],
+  ['bf_5fis_5fkinematic_5for_5fdynamic_10',['BF_IS_KINEMATIC_OR_DYNAMIC',['../namespacenudge.html#ac872d3843c8f3c0d8d3a007521a34350a2229c990ee318d5506ff27b778668009',1,'nudge']]],
+  ['bf_5fis_5fplatform_11',['BF_IS_PLATFORM',['../namespacenudge.html#ac872d3843c8f3c0d8d3a007521a34350a46c1300a60e138e009843bae8d1ee20d',1,'nudge']]],
+  ['bf_5fis_5fremoved_12',['BF_IS_REMOVED',['../namespacenudge.html#ac872d3843c8f3c0d8d3a007521a34350ab184ee6db90aeb82df7f945ae7187c7b',1,'nudge']]],
+  ['bf_5fis_5fsensor_13',['BF_IS_SENSOR',['../namespacenudge.html#ac872d3843c8f3c0d8d3a007521a34350aa5f3760fce01a34bd306c5b0758e61fb',1,'nudge']]],
+  ['bf_5fis_5fstatic_14',['BF_IS_STATIC',['../namespacenudge.html#ac872d3843c8f3c0d8d3a007521a34350a5411f1f165712f4c40fd9c7605cf65d6',1,'nudge']]],
+  ['bf_5fis_5fstatic_5for_5fdynamic_15',['BF_IS_STATIC_OR_DYNAMIC',['../namespacenudge.html#ac872d3843c8f3c0d8d3a007521a34350a53a60f6ef52de1e62da1abcfb53db994',1,'nudge']]],
+  ['bf_5fis_5fstatic_5for_5fkinematic_16',['BF_IS_STATIC_OR_KINEMATIC',['../namespacenudge.html#ac872d3843c8f3c0d8d3a007521a34350af1ee17f32834b2965513a9b4820dad5d',1,'nudge']]],
+  ['bf_5fis_5fstatic_5for_5fkinematic_5for_5fdisabled_5for_5fremoved_17',['BF_IS_STATIC_OR_KINEMATIC_OR_DISABLED_OR_REMOVED',['../namespacenudge.html#ac872d3843c8f3c0d8d3a007521a34350a74f00b1ef23efc43322c498bd3a15060',1,'nudge']]],
+  ['bf_5fis_5fstatic_5for_5fkinematic_5for_5fdynamic_18',['BF_IS_STATIC_OR_KINEMATIC_OR_DYNAMIC',['../namespacenudge.html#ac872d3843c8f3c0d8d3a007521a34350aa2f2831c41803e216569d9a7f468a323',1,'nudge']]],
+  ['bf_5fnever_5fsleeping_19',['BF_NEVER_SLEEPING',['../namespacenudge.html#ac872d3843c8f3c0d8d3a007521a34350a03a7100289b0717cdeeb82e835c4bb03',1,'nudge']]]
+];
